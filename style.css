@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.hero {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.hero h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.btn {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0069d9;
+}
+
+.featured-products {
+  margin-top: 50px;
+}
+
+.featured-products h2 {
+}
+  .logo {
+    width: 100px; /* Adjust width as needed */
+    height: auto; /* Height will adjust based on image proportions */
+    margin-bottom: 20px;
+  }
